@@ -1,8 +1,9 @@
 ---
 title: "Letting data speak for itself"
-subtitle: "Findings from a National Telephone Survey"
+subtitle: "Unveiling the Voice of Data: Insights from Three Perspectives"
 author: 
   - Sehar Bajwa
+abstract: "I will let the data speak for itself - Literally everyone on Twitter, regardless of subject matter."
 thanks: "Code and data are available at: https://github.com/SEHB2012/Nonresponsebias"
 date: today
 date-format: long
