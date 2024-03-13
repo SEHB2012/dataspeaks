@@ -3,7 +3,7 @@ title: "Letting data speak for itself"
 subtitle: "Unveiling the Voice of Data: Insights from Three Perspectives"
 author: 
   - Sehar Bajwa
-abstract: "I will let the data speak for itself - Literally everyone on Twitter, regardless of subject matter."
+abstract: "Oh you think you have good data on that? - Rohan Alexander on Twitter, 2 August 2023. Spoiler alert - We do not."
 thanks: "Code and data are available at: https://github.com/SEHB2012/Nonresponsebias"
 date: today
 date-format: long
@@ -15,6 +15,14 @@ bibliography: bibliography.bib
 ------------------------------------------------------------------------
 
 # Introduction
+
+In the realm of statistical analysis, Jean-Paul Benzécri's notion to "let the data speak for itself" has reverberated through academic corridors since its articulation in his seminal work, *L’analyse des données*. The citation, originating from Benzécri's tome *L’Analyse des Correspondances* in 1973, encapsulates a fundamental principle in data analysis: the primacy of empirical evidence over theoretical assumptions.
+
+Benzécri's proposition underscores a critical aspect of statistical modeling: the importance of ensuring that the structure of the model conforms to the inherent structure present within the data itself. Instead of imposing rigid preconceptions onto the data, Benzécri advocated for statistical models that extract insights directly from the data, allowing its inherent patterns and relationships to dictate the analytical framework.
+
+Moreover, Benzécri's stance emphasizes the need for statistical methods to be robust and flexible, capable of accommodating the nuances and complexities inherent in real-world data. By allowing the data to guide the modeling process, analysts can avoid the pitfalls of overfitting and ensure that their conclusions are firmly grounded in empirical evidence.
+
+In this article review, we delve into the multifaceted implications of Benzécri's dictum across various contexts in statistical analysis. Through exploration of diverse perspectives and case studies, we illuminate the significance of prioritizing empirical evidence and allowing the data to lead the way in statistical modeling and inference.
 
 # Research
 
@@ -40,3 +48,7 @@ Months later, the author was relieved to welcome the birth of a healthy baby. Ye
 Moreover, the essay underscores the paramount significance of rigorous data analysis and the necessity for a systematic approach in designing large-scale systems that seamlessly integrate human and machine intelligence. Adhering to this principle enables decision-makers to steer clear of potential pitfalls and ensures that their actions are firmly grounded in evidence and sound reasoning derived from data.
 
 In the broader context of AI and machine learning, allowing data to speak for itself entails prioritizing empirical evidence and insights garnered from thorough data analysis over preconceived notions or biases. This approach fosters transparency, accountability, and trust in AI systems, thereby fostering more ethical and responsible AI development and deployment.
+
+# Conclusion
+
+In conclusion, the three articles explored in this paper collectively emphasize the significance of "letting data speak for itself" across diverse contexts. They underscore the critical role of analysts in shaping and interpreting data, advocating for the inclusion of diverse perspectives to amplify marginalized voices, and highlighting the consequences of blindly accepting data without critical examination. Together, they emphasize the importance of data literacy, critical thinking, and ethical considerations in navigating the complexities of the digital era. By empowering data to tell its story with clarity, accuracy, and compassion, we can harness its full potential to drive meaningful insights and positive societal change.
